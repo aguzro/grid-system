@@ -1,3 +1,4 @@
+/* Cabecera */
 header {
 	padding: 15px 0;
 	margin: 0;
@@ -36,4 +37,29 @@ nav a {
 }
 nav a:hover {
 	color: #fff
+}
+/* Últimos episodios */
+.episode-big {
+	background-color: #D5D5D5;
+	height: 300px;
+	border-bottom: 1px solid #999;
+}
+.title-episodes {
+	display: inline-block;
+	margin-right: 10px;
+	padding-top: 15px;
+}
+.episodes {
+	color: #369;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 10px;
+	padding-top: 15px;
+}
+.text-episodesbig {
+	text-decoration: none;
+}
+footer {
+	background-color: #999;
+	height: 300px;
 }

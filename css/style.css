@@ -59,6 +59,19 @@ nav a:hover {
 .text-episodesbig {
 	text-decoration: none;
 }
+/*Sección central de episodios */
+.episodesMed {
+	padding: 50px 0;
+}
+
+.podcast {
+	max-width: 100%;
+}
+.containerMed {
+	width: 100%;
+}
+
+/*Pie de página */
 footer {
 	background-color: #999;
 	height: 300px;
